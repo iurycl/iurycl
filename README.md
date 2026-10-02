@@ -1,39 +1,140 @@
 <div align="center">
 
-# Olá, eu sou o Iury 👋
+# Iury Lansarin
 
-Desenvolvedor full-stack — da interface ao banco de dados, com uma queda por automação e por projetos que saem do óbvio (impressão 3D, mods de Minecraft).
+**Senior Software Engineer | Full-Stack Engineer**
+
+Chapecó, SC, Brazil · [iurycl14@gmail.com](mailto:iurycl14@gmail.com) · [linkedin.com/in/iurylansarin](https://linkedin.com/in/iurylansarin)
+
+🇧🇷 [Português](#-português) &nbsp;·&nbsp; 🇺🇸 [English](#-english)
 
 </div>
 
 ---
 
-### 🧰 Stack
+## 🇧🇷 Português
 
-**Frontend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Resumo
 
-**Backend**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+Engenheiro de software sênior com mais de 9 anos de experiência no desenvolvimento de aplicações web e mobile nos setores financeiro, pagamentos, hotelaria e sistemas corporativos. Experiência full-stack com .NET, Angular, Java, Spring Boot, JavaScript, React Native, bancos SQL e MongoDB. Experiência comprovada em produtos voltados ao cliente final, em times internacionais, com monitoramento e investigação de produção usando Datadog.
+
+### Stack técnica
+
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Dados & Infra**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+<br/>
+![SQL Server](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Experiência profissional
+
+**Questrade Financial Group** — Toronto, Ontário, Canadá
+*Senior Software Engineer* · mar/2024 – set/2026
+- Desenvolvimento e manutenção de aplicações financeiras voltadas ao cliente, com .NET, Angular, SQL e MongoDB.
+- Atuação em frontend, backend e camada de dados: features, investigação de defeitos e suporte em produção.
+- Monitoramento e investigação de problemas de produção com Datadog, em time internacional.
+
+**Questrade Financial Group** — Toronto, Ontário, Canadá
+*Software Engineer* · mar/2022 – mar/2024
+- Contribuição nas calculadoras financeiras da Questrade e no Customer Portal.
+- Desenvolvimento de soluções web com .NET e Angular, integrando SQL e MongoDB.
+
+**Vizir Software Studio** — São Paulo, Brasil
+*Mobile Application Developer* · jan/2021 – mar/2022
+- Desenvolvimento de aplicações mobile com React Native e JavaScript.
+- Contribuição no Natura Pay, plataforma de pagamentos para consultoras Natura.
+- Continuidade na Questrade após a aquisição da Vizir Software Studio em março de 2022.
+
+**Desbravador Software Ltda.** — Chapecó, SC, Brasil
+*Full-Stack Developer* · abr/2019 – dez/2020
+- Desenvolvimento de sistemas web com Java, Spring Boot, JSP, Bootstrap, PostgreSQL e WildFly.
+- Contribuição no LightWeb, plataforma de gestão hoteleira.
+
+**FAEE Sistemas** — Xanxerê, SC, Brasil
+*Full-Stack Developer* · jul/2017 – mar/2019
+- Desenvolvimento de sistemas web com Java, JSP, Spring, Spring Boot, Spring Data JPA, Hibernate, MySQL e PostgreSQL.
+- Contribuição no projeto Basuras, sistema de gestão de coleta de lixo para cidades paraguaias.
+
+### Formação & Certificação
+
+- **UNOESC** — Tecnólogo em Análise e Desenvolvimento de Sistemas (2016–2018)
+- Techstars Startup Weekend Agrotech — Chapecó
 
 ---
 
-### 🚀 Projetos em destaque
+## 🇺🇸 English
+
+### Summary
+
+Senior Software Engineer with 9+ years of experience developing web and mobile applications across financial services, payments, hospitality, and enterprise systems. Full-stack experience with .NET, Angular, Java, Spring Boot, JavaScript, React Native, SQL databases, and MongoDB. Proven experience working on customer-facing products in international teams, with production monitoring and troubleshooting using Datadog.
+
+### Tech Stack
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+<br/>
+![SQL Server](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Professional Experience
+
+**Questrade Financial Group** — Toronto, Ontario, Canada
+*Senior Software Engineer* · Mar 2024 – Sep 2026
+- Developed and maintained customer-facing financial applications using .NET, Angular, SQL, and MongoDB.
+- Worked across frontend, backend, and data layers to deliver features, investigate defects, and support production applications.
+- Used Datadog for application monitoring, troubleshooting, and production issue investigation, in an international team.
+
+**Questrade Financial Group** — Toronto, Ontario, Canada
+*Software Engineer* · Mar 2022 – Mar 2024
+- Contributed to Questrade financial calculators and the Customer Portal for customer-facing financial products.
+- Developed web solutions using .NET and Angular, working with both SQL data stores and MongoDB.
+
+**Vizir Software Studio** — São Paulo, Brazil
+*Mobile Application Developer* · Jan 2021 – Mar 2022
+- Developed mobile applications using React Native and JavaScript.
+- Contributed to Natura Pay, a payment platform created for Natura consultants.
+- Continued with Questrade after Vizir Software Studio was acquired by Questrade in March 2022.
+
+**Desbravador Software Ltda.** — Chapecó, SC, Brazil
+*Full-Stack Developer* · Apr 2019 – Dec 2020
+- Developed web systems using Java, Spring Boot, JSP, Bootstrap, PostgreSQL, and WildFly.
+- Contributed to LightWeb, a web-based hospitality management platform.
+
+**FAEE Sistemas** — Xanxerê, SC, Brazil
+*Full-Stack Developer* · Jul 2017 – Mar 2019
+- Developed web systems using Java, JSP, Spring, Spring Boot, Spring Data JPA, Hibernate, MySQL, and PostgreSQL.
+- Contributed to the Basuras project, a waste collection management system for Paraguayan cities.
+
+### Education & Certification
+
+- **UNOESC** — Technology Degree in Systems Analysis and Development (2016–2018)
+- Techstars Startup Weekend Agrotech — Chapecó
+
+---
+
+## 🚀 Featured Projects · Projetos em destaque
 
 <table>
 <tr>
@@ -58,8 +159,5 @@ Mod NeoForge para Minecraft 1.21.1: distância mínima de spawn configurável (h
 </tr>
 </table>
 
----
-
-### 📌 Sobre esses dois repositórios
-
-São os meus **projetos abertos**. A branch principal de cada um é protegida: toda mudança passa por Pull Request e precisa da minha aprovação antes de entrar — inclusive as minhas próprias. Contribuições são bem-vindas.
+Projetos abertos — branch principal protegida, toda mudança passa por Pull Request com aprovação (inclusive as minhas próprias).
+Open-source projects — protected main branch, every change goes through a Pull Request with approval (including my own).
